@@ -240,4 +240,4 @@ This repository serves as the official landing page for Crazy Toad. The software
 **Get the most recent version of Crazy Toad today!**
 
 ---
-**Last updated:** 2026-10-20 21:58:16 UTC
+**Last updated:** 2026-10-21 00:21:37 UTC
